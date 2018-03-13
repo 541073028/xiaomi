@@ -1,0 +1,8 @@
+*{
+	margin: 0;  /* body-8px */
+	padding: 0;   /* 标题 */
+	text-decoration: none;  /* a标签下划线 */
+	font-style: normal;   /* 字体斜体 */
+	list-style: none;
+	user-select: none;
+}
